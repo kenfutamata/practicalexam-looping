@@ -1,0 +1,14 @@
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\bin\Debug\net8.0\consolepracticalfinal.exe
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\bin\Debug\net8.0\consolepracticalfinal.deps.json
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\bin\Debug\net8.0\consolepracticalfinal.runtimeconfig.json
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\bin\Debug\net8.0\consolepracticalfinal.dll
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\bin\Debug\net8.0\consolepracticalfinal.pdb
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\obj\Debug\net8.0\consolepracticalfinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\obj\Debug\net8.0\consolepracticalfinal.AssemblyInfoInputs.cache
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\obj\Debug\net8.0\consolepracticalfinal.AssemblyInfo.cs
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\obj\Debug\net8.0\consolepracticalfinal.csproj.CoreCompileInputs.cache
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\obj\Debug\net8.0\consolepracticalfinal.dll
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\obj\Debug\net8.0\refint\consolepracticalfinal.dll
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\obj\Debug\net8.0\consolepracticalfinal.pdb
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\obj\Debug\net8.0\consolepracticalfinal.genruntimeconfig.cache
+C:\Users\kenfu\Documents\word\BSIT 2\2nd Semester\CC-APPSDEV22\consolepracticalfinal\consolepracticalfinal\obj\Debug\net8.0\ref\consolepracticalfinal.dll
